@@ -1,2 +1,2 @@
-# pratice
+# practice
 some practicing projects
